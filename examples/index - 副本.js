@@ -8,5 +8,6 @@ export default {
   example01,
   example02,
   example03,
-  example04
+  example04,
+  example05
 }
