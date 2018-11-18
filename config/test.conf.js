@@ -2,6 +2,7 @@
 
 const merge = require('webpack-merge')
 //lss modify 2018111819.06
+//又加了一行
 const baseConfig = require('./base.conf')
 
 //wtw->modify2018111819.06
